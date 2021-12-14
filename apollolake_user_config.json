@@ -4,14 +4,13 @@
     "vid": "0x0930",
     "sn": "1941PDN788107",
     "mac1": "001132AE2B81",
-    "mac2": "001132AE2B82"
+    "mac2": "001132AE2B82",
+    "mac3": "001132AE2B83",
+    "SataPortMap": "244"
   },
   "synoinfo": {
-    "maxdisks": "24",
-    "maxlanport": "4",
-    "usbportcfg": "0x30000",
-    "esataportcfg": "0x0",
-    "internalportcfg": "0xffff"
+    "maxdisks": "8",
+    "maxlanport": "3"
   },
   "ramdisk_copy": {}
 }
